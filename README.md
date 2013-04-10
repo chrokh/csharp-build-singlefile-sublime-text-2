@@ -19,7 +19,7 @@ Installation
 Sorry, not yet...
 
 #### The old-school way
-1. `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+1. `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
 2. `git clone git@github.com:ChrOkh/chsharp-build-singlefile-sublime-text-2.git CSharpSinglefile`
 
 Code-completion
