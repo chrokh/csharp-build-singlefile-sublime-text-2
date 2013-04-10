@@ -33,7 +33,7 @@ If you want Visual Studio-style code completion, be sure to also install the awe
 Example
 -------
 Now we can write minimalistic C# console applications:
-```
+```C#
 using System;
 class MainClass{
   public static void Main(){
