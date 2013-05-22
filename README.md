@@ -20,8 +20,8 @@ Installation
 ------------
 
 #### Using Package Manager
-Sorry, not yet...
-A [pull-request](https://github.com/wbond/package_control_channel/pull/1259) for package manager inclusion has been submitted.
+You can now install the C# build system through the package manager channel.
+The package is called "C# Compile & Run"
 
 #### The old-school way
 1. `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
