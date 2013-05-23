@@ -19,7 +19,7 @@ If you have previously installed Xamarin Studio or Mono Develop you should have 
 Installation
 ------------
 
-#### Using Package Manager
+#### Using Package Manager (recommended)
 You can now install the C# build system through the package manager channel.
 The package is called "C# Compile & Run"
 
