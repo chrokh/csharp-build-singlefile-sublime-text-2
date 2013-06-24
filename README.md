@@ -1,4 +1,4 @@
-Build and run single C# files from Sublime Text 2 on OSX.
+Build and run single C# files from Sublime Text 2 on OSX and Windows.
 
 Usage
 ------
