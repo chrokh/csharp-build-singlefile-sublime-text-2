@@ -1,4 +1,4 @@
-Build and run single C# files from Sublime Text 2 on OSX.
+Build and run single C# files from Sublime Text 2 on OSX and Windows.
 
 Usage
 ------
@@ -13,6 +13,8 @@ The aim of this plugin is to provide easy and fast and overhead-free access to t
 Dependencies
 ------------
 Assumes you have `gmcs` and `mono` commands available in your PATH.
+For Windows you should have `csc` in your PATH.
+
 
 If you have previously installed Xamarin Studio or Mono Develop you should have these available in your path. If you don't please read more at [here](http://www.mono-project.com/) or [here](http://monodevelop.com/)
 

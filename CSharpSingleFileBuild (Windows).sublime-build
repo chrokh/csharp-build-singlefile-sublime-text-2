@@ -1,0 +1,17 @@
+{
+   "selector":"source.cs",
+   "shell":true,
+   "cmd":[
+      "csc.exe",
+      "$file_name"
+   ],
+   "variants":[
+      {     
+         "shell":true,  
+         "cmd":[
+            "$file_base_name.exe"
+         ],    
+          "name"  : "Run"    
+      }
+   ]
+}
