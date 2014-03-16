@@ -1,0 +1,24 @@
+{
+  "selector"  : "source.cs",
+  "cmd"       : "gmcs $file_name",
+  "shell"     : true,
+
+  "osx" : {
+    "path" : "/usr/local/bin:$PATH"
+  },
+  "windows" : {
+    "cmd"  : "csc.exe $file_name"
+  },
+
+  "variants"  : [
+    {
+      "cmd"   : "mono $file_base_name.exe",
+      "name"  : "Run",
+      "shell" : true,
+
+      "windows" : {
+        "cmd" : "$file_base_name.exe"
+      }
+    }
+  ]
+}
