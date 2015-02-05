@@ -17,7 +17,7 @@
       "shell" : true,
 
       "windows" : {
-        "cmd" : "$file_base_name.exe"
+        "cmd": ["start", "cmd", "/k", "${file_path}/${file_base_name}.exe"]
       }
     }
   ]
