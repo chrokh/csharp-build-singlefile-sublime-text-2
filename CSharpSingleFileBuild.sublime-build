@@ -4,7 +4,7 @@
   "shell"     : true,
 
   "osx" : {
-    "path" : "/usr/local/bin:$PATH"
+    "path" : "/usr/local/bin:/usr/local/share/dotnet:/Library/Frameworks/Mono.framework/Versions/Current/Commands:$PATH"
   },
   "windows" : {
     "cmd"  : "csc.exe $file_name"
