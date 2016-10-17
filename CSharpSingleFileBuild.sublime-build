@@ -1,6 +1,6 @@
 {
   "selector"  : "source.cs",
-  "cmd"       : "gmcs $file_name",
+  "cmd"       : "mcs $file_name",
   "shell"     : true,
 
   "osx" : {

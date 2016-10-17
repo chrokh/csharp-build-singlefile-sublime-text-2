@@ -12,7 +12,7 @@ The aim of this plugin is to provide easy and fast and overhead-free access to t
 
 Dependencies
 ------------
-Assumes you have `gmcs` and `mono` commands available in your PATH.
+Assumes you have `mcs` and `mono` commands available in your PATH.
 For Windows you should have `csc` in your PATH.
 
 
