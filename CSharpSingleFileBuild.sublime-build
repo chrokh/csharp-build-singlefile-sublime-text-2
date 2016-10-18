@@ -3,9 +3,6 @@
   "cmd"       : "mcs $file_name",
   "shell"     : true,
 
-  "osx" : {
-    "path" : "/usr/local/bin:$PATH"
-  },
   "windows" : {
     "cmd"  : "csc.exe $file_name"
   },

@@ -12,11 +12,11 @@ The aim of this plugin is to provide easy and fast and overhead-free access to t
 
 Dependencies
 ------------
-Assumes you have `mcs` and `mono` commands available in your PATH.
-For Windows you should have `csc` in your PATH.
+- Assumes you have `mcs` and `mono` commands available in your PATH.
+For Windows you should have `csc` in your PATH.  If you have previously installed Xamarin Studio or Mono Develop you should have these available in your path. If you don't please read more at [here](http://www.mono-project.com/) or [here](http://monodevelop.com/)
 
-
-If you have previously installed Xamarin Studio or Mono Develop you should have these available in your path. If you don't please read more at [here](http://www.mono-project.com/) or [here](http://monodevelop.com/)
+- [SublimeFixMacPath](https://github.com/int3h/SublimeFixMacPath) (for Mac users)
+. Required because of [updates to Mac OS](https://forum.sublimetext.com/t/how-to-set-path-on-os-x-so-sublime-can-see-it/11842). Enables Sublime to load your PATH variable.
 
 Installation
 ------------
